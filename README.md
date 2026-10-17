@@ -8,7 +8,7 @@ Youtube Video Demonstration: https://youtu.be/yhBnKF3lCHo
 
 ![Diep.io gameplay showing the normal-FOV outline, cursor-estimation lines, and predicted drone shadows.](./docs/diepimage.png)
 
-In-game view with the red normal-FOV reference, cyan cursor-estimation lines, and purple predicted drone shadows.
+In-game view with the red normal-FOV reference, cyan cursor-estimation lines, green predicted player location and purple predicted drone shadows.
 
 ## Features
 
