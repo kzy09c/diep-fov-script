@@ -2,6 +2,8 @@
 
 A Tampermonkey userscript for [Diep.io](https://diep.io/) with adjustable camera zoom, a normal-FOV reference box, and experimental drone visualizations.
 
+Youtube Video Demonstration: https://youtu.be/bxGDPysyjYg
+
 ## Features
 
 - **Camera zoom:** adjust visible width from **0.10× to 3.00×** the normal camera.
