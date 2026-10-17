@@ -4,6 +4,12 @@ A Tampermonkey userscript for [Diep.io](https://diep.io/) with adjustable camera
 
 Youtube Video Demonstration: https://youtu.be/yhBnKF3lCHo
 
+## Preview
+
+![Diep.io gameplay showing the normal-FOV outline, cursor-estimation lines, and predicted drone shadows.](./docs/diepimage.png)
+
+In-game view with the red normal-FOV reference, cyan cursor-estimation lines, and purple predicted drone shadows.
+
 ## Features
 
 - **Camera zoom:** adjust visible width from **0.10× to 3.00×** the normal camera.
