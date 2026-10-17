@@ -155,7 +155,7 @@ Let $\mathbf n_i=(-d_{iy},d_{ix})$ be a unit normal to heading $i$. A common poi
 
 ```math
 \widehat{\mathbf q}
-=\underset{\mathbf q}{\operatorname{argmin}}
+=\underset{\mathbf q}{\mathrm{arg\,min}}
 \sum_i w_i\left[\mathbf n_i^\mathsf T(\mathbf q-\mathbf p_i)\right]^2,
 ```
 
