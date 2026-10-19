@@ -4,6 +4,10 @@ A Tampermonkey userscript for [Diep.io](https://diep.io/) with adjustable camera
 
 Youtube Video Demonstration: https://youtu.be/yhBnKF3lCHo
 
+NOTE: FUTURE IMPROVEMENTS:  
+- when enemy tank detected lower position bounds to 120x120 around the tank
+- when enemy tank not detected discard current fov from predicted region recursively (geometry blows up so limit amount of edges/ "rectangles" there are)
+
 ## Preview
 
 ![Diep.io gameplay showing the normal-FOV outline, cursor-estimation lines, and predicted drone shadows.](./docs/diepimage.png)
