@@ -2,7 +2,7 @@
 
 A Tampermonkey userscript for [Diep.io](https://diep.io/) with adjustable camera zoom, a normal-FOV reference box, and experimental drone visualizations.
 
-Youtube Video Demonstration: https://youtu.be/yhBnKF3lCHo
+Youtube Video Demonstration: [https://youtu.be/yhBnKF3lCHo](https://youtu.be/bxGDPysyjYg)
 
 NOTE TO SELF FOR FUTURE IMPROVEMENTS (if i can be bothered):  
 - when enemy tank detected lower position bounds to 120x120 around the tank
