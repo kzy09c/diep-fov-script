@@ -1,3 +1,6 @@
+NOTE: THIS IS DEPRECATED DUE TO RECENT UPDATES THAT HAVE CHANGED THE WASM
+FIXES ARE SIMPLE WITH AI CODING AGENTS: SIMPLY PROMPT TO UPDATE THE WASM CHECKER
+
 # Diep.io FOV Script
 
 A Tampermonkey userscript for [Diep.io](https://diep.io/) with adjustable camera zoom, a normal-FOV reference box, and experimental drone visualizations.
